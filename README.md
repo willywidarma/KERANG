@@ -1,6 +1,6 @@
-# LineBot-KerangAjaib
+# LineBot-NIPAM
 
-Puja kulit kerang ajaib, ulululululu...
+NIPAM, ulululululu...
 
 ----------
 
